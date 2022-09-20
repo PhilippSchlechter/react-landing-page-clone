@@ -17,6 +17,7 @@ root.render(
         body {
           margin: 0;
           background: #f3f5ff;
+          font-family: sans-serif;
         }
         a {
           color: black;
